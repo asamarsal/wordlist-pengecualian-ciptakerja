@@ -4,6 +4,7 @@
 <h2 align="left">(Aplication of Text Mining and Sentiment Analysis Refer to Twitter User Belong to Cipta Kerja Law)</h2>
 
 This page is consist of word and numbers to filter data that is not important in the text of the omnibus law (cipta kerja)
+<br/>
 I use orange data mining to generate wordcloud
 <h3 align="left">There are 3 Workflow that i observe</h2>
     - Workflow without stopword and wordlist
